@@ -11,7 +11,7 @@
 
 <i>A curated list of awesome Github Profile READMEs</i>
 
-<a href="https://github.com/Abireddy2003/Abireddy2003/blob/main/README.md"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/Abireddy2003/Abireddy2003/blob/main/README.md"><img src="https://github.com/Abireddy2003?tab=stars " alt="Stars Badge"/></a>
 <a href="https://github.com/Abireddy2003/Abireddy2003/blob/main/README.md"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/Abireddy2003/Abireddy2003/blob/main/README.md"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Abireddy2003/Abireddy2003/blob/main/README.md"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
