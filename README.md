@@ -14,7 +14,7 @@
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
+<i>Loved the project? Please consider [donating](https://github.com/Abireddy2003?tab=repositories) to help it improve!</i>
 
 </div>
 
